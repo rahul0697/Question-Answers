@@ -7,15 +7,12 @@
 Ref : https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/
 ## Parametric vs Non Parametric Classifier
 Parametric Classifier : Decision Surface which classifier will learn is already known to us. Works well with small data also
-For Example:
-Linear Regression
-Logistic Regression
-Perceptron
-LDA 
-Naive Baiyes
-Non-Parametric Classifier : Decision surface is not known, we learn it from the data. Large Data -> better decision Surface
-For example:
-Deep Neural Network
-SVM(Kernels)
-KNN
-Decision Tree
+ 1. Linear Regression
+ 2. Logistic Regression 
+ 3. Perceptron  
+Non-Parametric Classifier : Decision surface is not known, we learn it from the data. Large Data -> better decision Surface  
+For example:  
+1 .Deep Neural Network  
+2 .SVM(Kernels)  
+3 .KNN  
+4 .Decision Tree  
