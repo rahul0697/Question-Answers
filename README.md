@@ -16,3 +16,5 @@ For example:
 2 .SVM(Kernels)  
 3 .KNN  
 4 .Decision Tree  
+## Time Distributed Layer
+https://machinelearningmastery.com/timedistributed-layer-for-long-short-term-memory-networks-in-python/
