@@ -16,7 +16,7 @@
  - Euclidean distance is not a good measure of similarity in high dimension. 
  - Cosine similarity is generally used as a metric for measuring distance when the magnitude of the vectors does not matter. 
  - Cosine similarity is specialized in handling scale/length effects, like the word count of  same word in different document. 
- [machine-learning-mastery]https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/
+ - [machine-learning-mastery](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
 ### Parametric vs Non Parametric Classifier
 > Parametric Classifier : Decision Surface which classifier will learn is already known to us. Works well with small data also
  - Linear Regression
