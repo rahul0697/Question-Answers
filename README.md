@@ -10,6 +10,7 @@
   * [Table of contents](#table-of-contents)
   * [Time Distributed Layer](#time-distributed-layer)
   * [Parameters in  LSTM](#parameters-in-lstm)
+  * [1D Convolution](#conv-1-D)
       
 ### Cosine vs Euclidean Distance 
 > Why is cosine similarity better in measuring similarity between vectors than Euclidean in Vector Space model? 
@@ -32,3 +33,5 @@
 
 ###  Number of Parameters in LSTM
 > https://stackoverflow.com/questions/38080035/how-to-calculate-the-number-of-parameters-of-an-lstm-network/56614978#56614978
+### 1D Convolution
+
