@@ -18,7 +18,7 @@
  - Cosine similarity is specialized in handling scale/length effects, like the word count of  same word in different document. 
  - [machine-learning-mastery](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
 ### Parametric vs Non Parametric Classifier
-> Parametric Classifier : Decision Surface which classifier will learn is already known to us. Works well with small data also
+> Parametric Classifier : Decision Surface is known. Small dataset is not a problem here.
  - Linear Regression
  - Logistic Regression 
  - Perceptron  
