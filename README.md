@@ -31,7 +31,7 @@
 ### Time Distributed Layer
 > https://machinelearningmastery.com/timedistributed-layer-for-long-short-term-memory-networks-in-python/
 
-###  Number of Parameters in LSTM
+### Parameters in  LSTM
 > https://stackoverflow.com/questions/38080035/how-to-calculate-the-number-of-parameters-of-an-lstm-network/56614978#56614978
 ### 1D Convolution
 
