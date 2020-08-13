@@ -7,8 +7,8 @@
    * [Covariance vs Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
    * [Parametric Vs Non Parametric Classifier](#parametric-vs-non-parametric-classifier)
-   * [Discriminativa vs Geneartive Classifier]
-   * [Central Limit Theorm]
+   * [Discriminativ vs Generative Classifier](#discriminative-vs-generative-classifier)
+   * [Central Limit Theorm](#central-limit-theorm)
 * [Deep Learning](#deep-learning)
   * [Table of contents](#table-of-contents)
   * [Time Distributed Layer](#time-distributed-layer)
@@ -56,11 +56,10 @@
 | SVM, Neural Network, Decision Trees, Linear Regression, Logistic Regression | Naive Bayies, GMM, HMM  |
 
 ### Central Limit Theorm
-Definition - The central limit theorem says that the probability distribution of the average will closely approximate a normal distribution.
+Definition - The central limit theorem says that the probability distribution of the average will closely approximate a normal distribution.  
 Whatever distribution you choose, sample mean will tends towards normal distribution.
-## Exception--
-To apply central limit theorm, you should be able to calculate mean of samples.
-Cauchy Distribution's mean is undefined, so its difficult to define central limit theorm in this case.
+>To apply central limit theorm, you should be able to calculate mean of samples.
+>Cauchy Distribution's mean is undefined, so its difficult to define central limit theorm in this case.
 
 ### Time Distributed Layer
 > https://machinelearningmastery.com/timedistributed-layer-for-long-short-term-memory-networks-in-python/
