@@ -6,7 +6,7 @@
    * [Table of contents](#table-of-contents)
    * [Covariance vs Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
-   * [odds vs log odds](#odds vs log odds)
+   * [odds vs log odds](#odds-vs-log-odds)
    * [Parametric Vs Non Parametric Classifier](#parametric-vs-non-parametric-classifier)
    * [Discriminativ vs Generative Classifier](#discriminative-vs-generative-classifier)
    * [Central Limit Theorm](#central-limit-theorm)
