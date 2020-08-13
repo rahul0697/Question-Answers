@@ -23,6 +23,7 @@
 - cov(x,y) < 0 => with increase in x, y decreases and with increase in y x decreases
 - cov(x,y) =0 => nothing can be said. No relationShip exists. with increase in x, y increases, decrease or remain Constant.
 - Covariance is not easy to interpret, since we can not compare magnitude of covariance values. 
+<img src="https://github.com/rahul0697/Question-Answers/blob/master/covarinace.jpeg">
       
 ### Cosine vs Euclidean Distance 
 > Why is cosine similarity better in measuring similarity between vectors than Euclidean in Vector Space model? 
