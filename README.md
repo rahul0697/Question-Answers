@@ -4,7 +4,7 @@
 
 * [Machine Learning](#machine-learning)
    * [Table of contents](#table-of-contents)
-   * [Covariance and Correlation](#covariance-and-correlation)
+   * [Covariance vs Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
    * [Parametric Vs Non Parametric Classifier](#parametric-vs-non-parametric-classifier)
 * [Deep Learning](#deep-learning)
@@ -13,7 +13,7 @@
   * [Parameters in  LSTM](#parameters-in-lstm)
   * [1D Convolution](#conv-1-D)
   
-###  Covariance and Correlation
+###  Covariance vs Correlation
 - variance(x) =  
 ![varinace](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D0%7D%5E%7Bn%7D%5Cfrac%7B%28x-%5Cbar%7Bx%7D%29%5E2%7D%7Bn-1%7D)
 - covariance(x,y) =  
