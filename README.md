@@ -6,6 +6,7 @@
    * [Table of contents](#table-of-contents)
    * [Covariance vs Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
+   * [odds vs log odds](#odds vs log odds)
    * [Parametric Vs Non Parametric Classifier](#parametric-vs-non-parametric-classifier)
    * [Discriminativ vs Generative Classifier](#discriminative-vs-generative-classifier)
    * [Central Limit Theorm](#central-limit-theorm)
@@ -31,7 +32,24 @@
   <img src="https://github.com/rahul0697/Question-Answers/blob/master/correlation2.jpeg" width="300"/>
 </p>
 
-      
+### odds vs log odds
+odds =  
+![odds](https://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Ctextrm%7Bthe%20ratio%20of%20something%20happening%28i.e%20%7B%5Ccolor%7BGreen%7D%20Winning%20game%7D%29%7D%7D%20%7B%5Ctextrm%7B%7Bthe%20ratio%20of%20something%20not%20happening%28i.e%20%7B%5Ccolor%7BRed%7D%20Not%7D%20%7B%5Ccolor%7BGreen%7D%20Winning%20Game%7D%29%7D%7D%7D)  
+> Suppose I won 5 games and lost 3 games. so odds in favour of winning = 5/3 = and odds in favour of lossing = 3/8  
+> probability is different than odds.     
+probability =   
+![probability](https://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Ctextrm%7Bthe%20ratio%20of%20something%20happening%28i.e%20%7B%5Ccolor%7BGreen%7D%20Winning%20game%7D%29%7D%7D%20%7B%5Ctextrm%7B%7Bthe%20ratio%20of%20something%20not%20happening%28i.e%20%7B%5Ccolor%7BRed%7D%20Loosing%7D%20&plus;%20%7B%5Ccolor%7BGreen%7D%20winning%20Game%7D%29%7D%7D%7D)      
+> pr(winning game) = 5/8 and pr(loosing game) = 3/8    
+> odds in favour of winning = pr(winning)/pr(loosing) = pr(winning)/(1-pr(winning)) = 5/8    
+#### odds:  
+>Odds against Winning = 3/8, 8/16 , 5/32 etc => odds against winning will have a range 0 to 1.   
+>Odds in favour of Winning = 8/3, 16/8, 32/5 etc => odds in favour of winning will have a range from 1 to infinity.   
+>Odds are not Symmetric, since 8/3 and 3/8 has different range. 
+#### Log odds:
+> Log odds against winning = log(3/8), log(8/16), log(5/32)   
+> Log odds in favour of winning  = log(8/3), log(16/8), log(32/5)  
+>Since log(3/8) = -log(8/3) =>Symmetric in both range  
+
 ### Cosine vs Euclidean Distance 
 > Why is cosine similarity better in measuring similarity between vectors than Euclidean in Vector Space model? 
  - Euclidean distance is not a good measure of similarity in high dimension. 
