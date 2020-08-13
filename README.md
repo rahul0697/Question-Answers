@@ -4,6 +4,7 @@
 
 * [Machine Learning](#machine-learning)
    * [Table of contents](#table-of-contents)
+   * [Covariance and Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
    * [Parametric Vs Non Parametric Classifier](#parametric-vs-non-parametric-classifier)
 * [Deep Learning](#deep-learning)
@@ -11,6 +12,17 @@
   * [Time Distributed Layer](#time-distributed-layer)
   * [Parameters in  LSTM](#parameters-in-lstm)
   * [1D Convolution](#conv-1-D)
+  
+###  Covariance and Correlation
+- variance(x) =  
+![varinace](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D0%7D%5E%7Bn%7D%5Cfrac%7B%28x-%5Cbar%7Bx%7D%29%5E2%7D%7Bn-1%7D)
+- covariance(x,y) =  
+![covariance](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D0%7D%5E%7Bn%7D%5Cfrac%7B%28x-%5Cbar%7Bx%7D%29%28y-%5Cbar%7By%7D%29%7D%7Bn-1%7D)
+- Covariance shows trends between features of data: positive Trend(cov(x,y)>0), negative trend(cov(x,y)<0), No Trend(cov(x,y)=0)
+- cov(x,y) >0 => with increase in x, y increases and vice versa. 
+- cov(x,y) < 0 => with increase in x, y decreases and with increase in y x decreases
+- cov(x,y) =0 => nothing can be said. No relationShip exists. with increase in x, y increases, decrease or remain Constant.
+- Covariance is not easy to interpret, since we can not compare magnitude of covariance values. 
       
 ### Cosine vs Euclidean Distance 
 > Why is cosine similarity better in measuring similarity between vectors than Euclidean in Vector Space model? 
