@@ -4,11 +4,11 @@
 
 * [Machine Learning](#machine-learning)
    * [Table of contents](#table-of-contents)
-   * [Discriminativa vs Geneartive Classifier](#covariance-and-correlation)
    * [Covariance vs Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
    * [Parametric Vs Non Parametric Classifier](#parametric-vs-non-parametric-classifier)
    * [Discriminativa vs Geneartive Classifier]
+   * [Central Limit Theorm]
 * [Deep Learning](#deep-learning)
   * [Table of contents](#table-of-contents)
   * [Time Distributed Layer](#time-distributed-layer)
@@ -54,6 +54,14 @@
 | ------------- | ------------- |
 |  Discriminative models learn the (hard or soft) boundary between classes. | Generative models model the distribution of individual classes |
 | SVM, Neural Network, Decision Trees, Linear Regression, Logistic Regression | Naive Bayies, GMM, HMM  |
+
+### Central Limit Theorm
+Definition - The central limit theorem says that the probability distribution of the average will closely approximate a normal distribution.
+Whatever distribution you choose, sample mean will tends towards normal distribution.
+## Exception--
+To apply central limit theorm, you should be able to calculate mean of samples.
+Cauchy Distribution's mean is undefined, so its difficult to define central limit theorm in this case.
+
 ### Time Distributed Layer
 > https://machinelearningmastery.com/timedistributed-layer-for-long-short-term-memory-networks-in-python/
 
