@@ -4,9 +4,11 @@
 
 * [Machine Learning](#machine-learning)
    * [Table of contents](#table-of-contents)
+   * [Discriminativa vs Geneartive Classifier](#covariance-and-correlation)
    * [Covariance vs Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
    * [Parametric Vs Non Parametric Classifier](#parametric-vs-non-parametric-classifier)
+   * [Discriminativa vs Geneartive Classifier]
 * [Deep Learning](#deep-learning)
   * [Table of contents](#table-of-contents)
   * [Time Distributed Layer](#time-distributed-layer)
@@ -45,7 +47,13 @@
 - Deep Neural Network  
 - SVM(Kernels)  
 - KNN  
-- Decision Tree  
+- Decision Tree
+
+### Discriminativa vs Geneartive Classifier
+| Discriminative Classifier  | Generative Classifier |
+| ------------- | ------------- |
+|  Discriminative models learn the (hard or soft) boundary between classes. | Generative models model the distribution of individual classes |
+| SVM, Neural Network, Decision Trees, Linear Regression, Logistic Regression | Naive Bayies, GMM, HMM  |
 ### Time Distributed Layer
 > https://machinelearningmastery.com/timedistributed-layer-for-long-short-term-memory-networks-in-python/
 
