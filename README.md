@@ -4,6 +4,7 @@
 
 * [Machine Learning](#machine-learning)
    * [Table of contents](#table-of-contents)
+   * [ROC & AUC](#roc-auc)
    * [Covariance vs Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
    * [odds vs log odds](#odds-vs-log-odds)
@@ -15,6 +16,9 @@
   * [Time Distributed Layer](#time-distributed-layer)
   * [Parameters in  LSTM](#parameters-in-lstm)
   * [1D Convolution](#conv-1-D)
+  
+### ROC & AUC
+<img src = "/ROC_AUC.jpeg"/>
   
 ###  Covariance vs Correlation
 - variance(x) =  
