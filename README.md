@@ -5,6 +5,7 @@
 * [Machine Learning](#machine-learning)
    * [Table of contents](#table-of-contents)
    * [ROC  AUC](#roc-auc)
+   * [Concave Convex](#concave-convex)
    * [Covariance vs Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
    * [odds vs log odds](#odds-vs-log-odds)
@@ -17,8 +18,14 @@
   * [Parameters in  LSTM](#parameters-in-lstm)
   * [1D Convolution](#conv-1-D)
   
-### ROC  AUC
-<img src = "/ROC_AUC.jpeg"/>
+  
+###   ROC  AUC
+<img src = "/ROC_AUC.jpeg"/>  
+
+
+###   Concave Convex   
+<img src = "/concave_convex.jpeg"/>
+  
   
 ###  Covariance vs Correlation
 - variance(x) =  
