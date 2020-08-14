@@ -6,6 +6,7 @@
    * [Table of contents](#table-of-contents)
    * [ROC  AUC](#roc-auc)
    * [Concave Convex](#concave-convex)
+   * [Cross Entropy Loss](#cross-entropy-loss)   
    * [Covariance vs Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
    * [odds vs log odds](#odds-vs-log-odds)
@@ -42,6 +43,10 @@
   <img src="https://github.com/rahul0697/Question-Answers/blob/master/Correlation1.jpeg" />
   <img src="https://github.com/rahul0697/Question-Answers/blob/master/correlation2.jpeg" />
 </p>
+
+### Cross Entropy Loss 
+<img src ="/cross_entropy_1.jpeg" />
+<img src ="/cross_entropy2.jpeg" />
 
 ### odds vs log odds
 odds =  
