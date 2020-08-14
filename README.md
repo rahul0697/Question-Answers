@@ -39,9 +39,9 @@
 - cov(x,y) =0 => nothing can be said. No relationShip exists. with increase in x, y increases, decrease or remain Constant.
 - Covariance is not easy to interpret, since we can not compare magnitude of covariance values.     
 <p float="left">
-  <img src="https://github.com/rahul0697/Question-Answers/blob/master/covarinace.jpeg" /> 
-  <img src="https://github.com/rahul0697/Question-Answers/blob/master/Correlation1.jpeg" />
-  <img src="https://github.com/rahul0697/Question-Answers/blob/master/correlation2.jpeg" />
+  <img src="/covariance_correlation (1).jpg" /> 
+  <img src="/covariance_correlation (2).jpg" />
+  <img src="/covariance_correlation (3).jpg"/>
 </p>
 
 ### Cross Entropy Loss 
