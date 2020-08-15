@@ -6,7 +6,8 @@
    * [Table of contents](#table-of-contents)
    * [ROC  AUC](#roc-auc)
    * [Concave Convex](#concave-convex)
-   * [Cross Entropy Loss](#cross-entropy-loss)   
+   * [Cross Entropy Loss](#cross-entropy-loss)
+   * [Imbalance Data](#imabalance-data) 
    * [Covariance vs Correlation](#covariance-and-correlation)
    * [Cosine vs Euclidean Distance](#cosine-vs-euclidean-distance)
    * [odds vs log odds](#odds-vs-log-odds)
@@ -47,6 +48,9 @@
 ### Cross Entropy Loss 
 <img src ="/cross_entropy_1.jpeg" />
 <img src ="/cross_entropy2.jpeg" />
+
+### Imbalance Data
+<img src ="/imbalanced Data.jpg" />
 
 ### odds vs log odds
 odds =  
