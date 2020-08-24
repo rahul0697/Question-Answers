@@ -19,6 +19,7 @@
   * [Time Distributed Layer](#time-distributed-layer)
   * [Parameters in  LSTM](#parameters-in-lstm)
   * [1D Convolution](#conv-1-D)
+  * [CNN](#cnn)
   
   
 ###   ROC  AUC
@@ -105,4 +106,14 @@ Whatever distribution you choose, sample mean will tends towards normal distribu
 ### Parameters in  LSTM
 > https://stackoverflow.com/questions/38080035/how-to-calculate-the-number-of-parameters-of-an-lstm-network/56614978#56614978
 ### 1D Convolution
+
+### CNN
+#### Translation invarinace in computerVision
+
+- Even if your input image is translated, CNN will be able to detect those features. (produces same response)  
+
+- Pooling layer helps in translation invarinace, since we choose max values or avg values. as We increase the number of pooling layers in our model, our model will be very robust to translation.  
+
+#### Translation Equivalance
+>if you have an face in a image,  then if you change the position of face in your image, the output response will also change.i,e position of ouput also gets changed if input position changes.
 
