@@ -117,3 +117,5 @@ Whatever distribution you choose, sample mean will tends towards normal distribu
 #### Translation Equivalance
 >if you have an face in a image,  then if you change the position of face in your image, the output response will also change.i,e position of ouput also gets changed if input position changes.
 
+###Different Loss Functions
+https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
